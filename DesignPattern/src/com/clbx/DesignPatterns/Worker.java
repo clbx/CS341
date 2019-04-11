@@ -8,7 +8,6 @@ package com.clbx.DesignPatterns;
  */
 public class Worker implements Ant{
 
-	
 	/**
 	 * Prints out the ant's job
 	 */
